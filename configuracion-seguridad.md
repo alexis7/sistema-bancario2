@@ -130,4 +130,4 @@ El Sistema Bancario Moderno ofrece múltiples capas de seguridad para proteger t
 
 ----------
 
-Para más información o asistencia, no dudes en contactar a nuestro equipo de soporte. ¡Gracias por utilizar el Sistema Bancario Moderno!
+Para más información o asistencia, no dudes en contactar a nuestro equipo de soporte. ¡¡Gracias por utilizar el Sistema Bancario Moderno!!
