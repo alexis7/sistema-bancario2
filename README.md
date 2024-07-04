@@ -165,6 +165,21 @@ apiUrl: 'http://localhost:3000/api'
 
 Logs  ![logs](Logs.png)
 
+
+## stash
+
+stash  ![stash](stash.png)
+
+## rebase
+
+rebase  ![rebase](rebase.png)
+
+## cherry-pick
+
+cherry-pick  ![cherry-pick](cherry-pick.png)
+
+
+
 ## Licencia
 
   
